@@ -24,6 +24,7 @@
   ##
  
 <div> 
+  <img aling="center" alt="Sla" height="40" width="180" src="https://1.bp.blogspot.com/-U1F_Eu88SRI/WqxgIIe2CKI/AAAAAAAAuF8/1uZpIaYCgqEKR81xa8_namFjVY8jRMdrQCLcBGAs/s1600/Fundo%2Btransparente%2BPNG%2B%2Bfoto%2Binvisivel%2Bsem%2Bfundo.fw.png"/>
   <a href="https://www.youtube.com/channel/UCFWNOa6jm4XhdFwLt_2nj1Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/obiielziin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/elbielzin" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
