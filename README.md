@@ -1,7 +1,7 @@
 ##
 <div align="center">
   <a href="https://github.com/Biielziin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biielziin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Biielziin&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=Biielziin&layout=compact&theme=dark)](https://github.com/Envoy-VC/Envoy-VC"/>
 </div>
 <div style="display: inline_block"><br>
